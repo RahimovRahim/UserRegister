@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{D74B2D6A-53E9-425A-A1A2-801D47690815}|Default">
+  <MonoDevelop.Ide.ItemProperties.Pronia2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pronia2/Views/User/Register.cshtml">
+    <Files>
+      <File FileName="Pronia2/Program.cs" Line="30" Column="3" />
+      <File FileName="Pronia2/Controllers/HomeController.cs" />
+      <File FileName="Pronia2/Contexts/ProniaDbContext.cs" />
+      <File FileName="Pronia2/Controllers/ShopController.cs" />
+      <File FileName="Pronia2/Models/Slider.cs" />
+      <File FileName="Pronia2/Models/Shipping.cs" />
+      <File FileName="Pronia2/appsettings.json" Line="1" Column="1" />
+      <File FileName="Pronia2/Views/Home/Index.cshtml" />
+      <File FileName="Pronia2/Views/Shared/_Layout.cshtml" />
+      <File FileName="Pronia2/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Pronia2/ViewModels/HomeViewModel.cs" Line="1" Column="1" />
+      <File FileName="Pronia2/Areas/Admin/Controllers/ShippingController.cs" />
+      <File FileName="Pronia2/Areas/Admin/Controllers/SliderController.cs" />
+      <File FileName="Pronia2/Areas/Admin/Controllers/DashboardController.cs" />
+      <File FileName="Pronia2/Areas/Admin/Views/Shipping/Create.cshtml" />
+      <File FileName="Pronia2/Areas/Admin/Views/Shipping/Index.cshtml" />
+      <File FileName="Pronia2/Areas/Admin/Views/Shared/_AdminLayout.cshtml" />
+      <File FileName="Pronia2/Areas/Admin/Views/_ViewStart.cshtml" />
+      <File FileName="Pronia2/Areas/Admin/Views/_ViewImports.cshtml" />
+      <File FileName="Pronia2/Areas/Admin/ViewModels/ShippingCreateViewModel.cs" />
+      <File FileName="Pronia2/Models/AppUser.cs" Line="1" Column="1" />
+      <File FileName="Pronia2/Migrations/20240313193623_UserTables.cs" />
+      <File FileName="Pronia2/Migrations/20240306165122_Init.cs" />
+      <File FileName="Pronia2/Migrations/ProniaDbContextModelSnapshot.cs" />
+      <File FileName="Pronia2/Migrations/20240313193623_UserTables.Designer.cs" />
+      <File FileName="Pronia2/ViewModels/RegisterViewModel.cs" Line="6" Column="31" />
+      <File FileName="Pronia2/Views/User/Register.cshtml" Line="48" Column="67" />
+      <File FileName="Pronia2/Properties/launchSettings.json" />
+      <File FileName="Pronia2/Areas/Admin/Slider/_ViewStart.cshtml" />
+      <File FileName="Pronia2/Controllers/UserController.cs" Line="56" Column="2" />
+      <File FileName="Pronia2/Views/_ViewImports.cshtml" Line="2" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pronia2">
+            <Node name="Pronia2">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views">
+                <Node name="User">
+                  <Node name="Register.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
